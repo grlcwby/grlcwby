@@ -1,5 +1,8 @@
-## Hi there 👋
-
+  howdy I'm ayla 💓
+- 🍧 I’m currently working on my portfolio website
+- 🕯 I’m currently learning how to code/ use github!
+- 🐻‍❄️ see my work on instagram @grlcwby
+- 💬 ask me about alternative country music
 <!--
 **grlcwby/grlcwby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
